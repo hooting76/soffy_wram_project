@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars,faPaperPlane } from "@fortawesome/free-solid-svg-icons";
 
-import $ from 'jquery';
+// import $ from 'jquery';
 
 import slider1 from './img/slider1.jpg';
 import slider2 from './img/slider2.jpg';
